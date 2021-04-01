@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-io-2.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TagAPI_lib/lib/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TagAPI_lib/lib/HEX_MOD.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TagAPI_lib/lib/json-20160212.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TagAPI_lib/lib/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TagAPI_lib/lib/MoonLakeNBT-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TagAPI_lib/lib/zip4j-2.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TagAPI_lib/lib/zt-zip-1.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
